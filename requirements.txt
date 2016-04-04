@@ -1,0 +1,4 @@
+elasticsearch==2.0.0
+geoip2==2.2.0
+pyshark==0.3.6.1
+watchdog==0.8.3
