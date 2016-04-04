@@ -1,5 +1,5 @@
 
-To Maka This Work:
+To Run This:
 1) Install Elasticsearch (https://www.elastic.co/downloads/elasticsearch)
 2) Install Kibana (https://www.elastic.co/downloads/kibana)
 NOTE: Please make sure both of those are running properly before proceeding. 
